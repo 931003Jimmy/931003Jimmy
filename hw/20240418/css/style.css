@@ -1,0 +1,27 @@
+#container {
+    width: 980px;
+    margin: 0 auto;
+    background-color: rgb(199, 140, 255);
+    
+}
+
+
+.round{
+    border: 50px;
+    border: 0cap;
+}
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.imgL {
+    float: left;
+    margin-right: 50px;
+}
+
+
+h2{
+    text-align: center;
+}
